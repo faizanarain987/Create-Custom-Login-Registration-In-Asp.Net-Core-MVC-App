@@ -1,0 +1,30 @@
+﻿body {
+    height: 100%;
+    margin: 0; 
+    padding: 0;
+}
+.account-container {
+    background-image: url("../images/abstract-digital-grid-black-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 2rem 0;
+}
+
+.account-box{
+    background-color:transparent;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,1);
+    max-width:500px;
+    width:100%;
+    opacity:.9;
+    color:white;
+   
+
+
+}
